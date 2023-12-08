@@ -1,5 +1,6 @@
 # HomeSwap 
 Project description
+
 This project involves the development of a web application allowing individuals to exchange their houses, apartments, lofts, etc., for short vacation periods ranging from one day to a few weeks. The idea is that the exchanges are free, but each owner can define certain services that the guests will have to provide, as well as constraints and limits to be respected.
 
 Main features
@@ -15,15 +16,15 @@ Rating system allowing users to leave ratings and comments.
 Dedicated back-office interface allowing the administrator to view the members, their announcements, and to delete elements if necessary.
 Ability to add additional features for the site administrator.
 Recommendation system (optional).
+
 Technologies
 The frontend of the application is developed using the following technologies:
-
 React: JavaScript library for building user interfaces.
 Redux: JavaScript library for managing application state.
 HTML/SCSS: Markup language and styling for the web application.
+
 Installation
 To install and run the frontend application locally, follow these steps:
-
 Make sure you have Node.js installed on your machine.
 Clone the project repository from GitHub.
 Open a console/terminal and navigate to the project directory.
